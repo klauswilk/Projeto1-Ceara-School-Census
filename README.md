@@ -5,6 +5,7 @@ Abaixo, segue o link do vídeo explicando as análises realizadas no dashboard e
 
 https://youtu.be/vyi870hr8Ws
 
+O projeto foi realizado para a conclusão do curso Data Analytics da plataforma CODER HOUSE.
 
 A ideia inicial do projeto era realizar a análise exploratória de dados (i.e. uma 
 abordagem à análise de conjuntos de dados de modo a resumir suas características 
