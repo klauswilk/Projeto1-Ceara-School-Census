@@ -25,4 +25,4 @@ obtida na plataforma do IBGE.
 Além disso, a TABELA_CALENDARIO foi criada com o intuito de otimizar a obtenção 
 de informações das datas, porque essa tabela é bem menor, em comparação ao 
 banco de dados principal.
-O banco de dados principal é o ESCOLAS_CE
+O banco de dados principal é o ESCOLAS_CE.
