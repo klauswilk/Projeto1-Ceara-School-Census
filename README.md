@@ -5,7 +5,7 @@ Abaixo, segue o link do vídeo explicando as análises realizadas no dashboard e
 
 https://youtu.be/vyi870hr8Ws
 
-O projeto foi realizado para a conclusão do curso Data Analytics da plataforma CODER HOUSE.
+O projeto foi realizado para a conclusão do curso Data Analytics da plataforma CODERHOUSE.
 
 A ideia inicial do projeto era realizar a análise exploratória de dados (i.e. uma 
 abordagem à análise de conjuntos de dados de modo a resumir suas características 
@@ -14,7 +14,8 @@ Todavia, o banco de dados escolhido possuía uma grande quantidade de informaç�
 com complexos relacionamentos, dificultando a análise e o tratamento destes 
 dados. 
 Nesse contexto, foi escolhido o banco de dados do Censo escolar do Ceará, que foi 
-obtido na plataforma kaggle.
+obtido na plataforma kaggle, disponível no link abaixo:
+https://www.kaggle.com/datasets/serenozin/censo-escolar-da-educao-bsica-de-2019-escolas?select=ESCOLAS_CE.CSV
 
 Após as primeiras análises foi identificada a necessidade de incluir mais uma tabela, 
 pois o banco de dados do Censo escolar não possuía informações referentes aos 
