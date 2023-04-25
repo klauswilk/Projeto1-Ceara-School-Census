@@ -13,6 +13,7 @@ principais) do Censo escolar do Brasil, especificamente, do ano de 2019.
 Todavia, o banco de dados escolhido possuía uma grande quantidade de informações 
 com complexos relacionamentos, dificultando a análise e o tratamento destes 
 dados. 
+
 Nesse contexto, foi escolhido o banco de dados do Censo escolar do Ceará, que foi 
 obtido na plataforma kaggle, disponível no link abaixo:
 https://www.kaggle.com/datasets/serenozin/censo-escolar-da-educao-bsica-de-2019-escolas?select=ESCOLAS_CE.CSV
